@@ -1,0 +1,14 @@
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\bin\Debug\net8.0\exmBlankSpace.exe
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\bin\Debug\net8.0\exmBlankSpace.deps.json
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\bin\Debug\net8.0\exmBlankSpace.runtimeconfig.json
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\bin\Debug\net8.0\exmBlankSpace.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\bin\Debug\net8.0\exmBlankSpace.pdb
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\obj\Debug\net8.0\exmBlankSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\obj\Debug\net8.0\exmBlankSpace.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\obj\Debug\net8.0\exmBlankSpace.AssemblyInfo.cs
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\obj\Debug\net8.0\exmBlankSpace.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\obj\Debug\net8.0\exmBlankSpace.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\obj\Debug\net8.0\refint\exmBlankSpace.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\obj\Debug\net8.0\exmBlankSpace.pdb
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\obj\Debug\net8.0\exmBlankSpace.genruntimeconfig.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\exmBlankSpace\obj\Debug\net8.0\ref\exmBlankSpace.dll

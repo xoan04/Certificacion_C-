@@ -1,0 +1,14 @@
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\obj\Debug\net8.0\bussinessrules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\obj\Debug\net8.0\bussinessrules.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\obj\Debug\net8.0\bussinessrules.AssemblyInfo.cs
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\obj\Debug\net8.0\bussinessrules.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\bin\Debug\net8.0\bussinessrules.exe
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\bin\Debug\net8.0\bussinessrules.deps.json
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\bin\Debug\net8.0\bussinessrules.runtimeconfig.json
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\bin\Debug\net8.0\bussinessrules.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\bin\Debug\net8.0\bussinessrules.pdb
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\obj\Debug\net8.0\bussinessrules.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\obj\Debug\net8.0\refint\bussinessrules.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\obj\Debug\net8.0\bussinessrules.pdb
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\obj\Debug\net8.0\bussinessrules.genruntimeconfig.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\bussinessrules\obj\Debug\net8.0\ref\bussinessrules.dll

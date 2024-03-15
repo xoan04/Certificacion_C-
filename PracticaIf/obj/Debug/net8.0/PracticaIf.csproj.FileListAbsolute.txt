@@ -1,0 +1,14 @@
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\obj\Debug\net8.0\PracticaIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\obj\Debug\net8.0\PracticaIf.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\obj\Debug\net8.0\PracticaIf.AssemblyInfo.cs
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\obj\Debug\net8.0\PracticaIf.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\bin\Debug\net8.0\PracticaIf.exe
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\bin\Debug\net8.0\PracticaIf.deps.json
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\bin\Debug\net8.0\PracticaIf.runtimeconfig.json
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\bin\Debug\net8.0\PracticaIf.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\bin\Debug\net8.0\PracticaIf.pdb
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\obj\Debug\net8.0\PracticaIf.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\obj\Debug\net8.0\refint\PracticaIf.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\obj\Debug\net8.0\PracticaIf.pdb
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\obj\Debug\net8.0\PracticaIf.genruntimeconfig.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\PracticaIf\obj\Debug\net8.0\ref\PracticaIf.dll

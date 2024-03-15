@@ -1,0 +1,14 @@
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\obj\Debug\net8.0\subsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\obj\Debug\net8.0\subsExercise.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\obj\Debug\net8.0\subsExercise.AssemblyInfo.cs
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\obj\Debug\net8.0\subsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\bin\Debug\net8.0\subsExercise.exe
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\bin\Debug\net8.0\subsExercise.deps.json
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\bin\Debug\net8.0\subsExercise.runtimeconfig.json
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\bin\Debug\net8.0\subsExercise.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\bin\Debug\net8.0\subsExercise.pdb
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\obj\Debug\net8.0\subsExercise.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\obj\Debug\net8.0\refint\subsExercise.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\obj\Debug\net8.0\subsExercise.pdb
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\obj\Debug\net8.0\subsExercise.genruntimeconfig.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\subsExercise\obj\Debug\net8.0\ref\subsExercise.dll

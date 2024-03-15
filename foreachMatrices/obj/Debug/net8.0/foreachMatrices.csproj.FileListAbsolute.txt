@@ -1,0 +1,14 @@
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\obj\Debug\net8.0\foreachMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\obj\Debug\net8.0\foreachMatrices.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\obj\Debug\net8.0\foreachMatrices.AssemblyInfo.cs
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\obj\Debug\net8.0\foreachMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\bin\Debug\net8.0\foreachMatrices.exe
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\bin\Debug\net8.0\foreachMatrices.deps.json
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\bin\Debug\net8.0\foreachMatrices.runtimeconfig.json
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\bin\Debug\net8.0\foreachMatrices.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\bin\Debug\net8.0\foreachMatrices.pdb
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\obj\Debug\net8.0\foreachMatrices.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\obj\Debug\net8.0\refint\foreachMatrices.dll
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\obj\Debug\net8.0\foreachMatrices.pdb
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\obj\Debug\net8.0\foreachMatrices.genruntimeconfig.cache
+C:\Users\Juan\Documents\Certificacion_C#\CsharpProjects\foreachMatrices\obj\Debug\net8.0\ref\foreachMatrices.dll
